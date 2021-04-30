@@ -13,4 +13,4 @@ https://github.com/CreateAmrita/Vlab-Physics-Flash/tree/main/Template%20files)
 
 3. Download the player [GitHub](https://www.adobe.com/support/flashplayer/debug_downloads.html)
 
-4. Browse sonometer.swf (swf may change like index.swf or main.swf or experiment name.swf) file in the experiment folder from the player to execute the animation. [GitHub](https://github.com/CreateAmrita/Vlab-Physics-Flash/blob/main/Template%20files/PHY/EXP/Sonometer/Sonometer.swf)
+4. Browse sonometer.swf (swf may change like simulation.swf or main.swf or experimentname.swf) file in the experiment folder from the player to execute the simulation. [GitHub](https://github.com/CreateAmrita/Vlab-Physics-Flash/blob/main/Template%20files/PHY/EXP/Sonometer/Sonometer.swf)
