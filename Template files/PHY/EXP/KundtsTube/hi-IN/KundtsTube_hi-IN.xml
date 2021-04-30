@@ -1,0 +1,55 @@
+<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="KundtsTube.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ALUMINIUM">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_BRASS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CHOOSEMATERIAL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_IRON">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_PISTONPOSITION">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_RESET">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_RODPOSITION">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SCALE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SHOWRESULT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_START">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_VELOCITY">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_YOUNGS">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
