@@ -6,7 +6,7 @@ Virtual Lab flash animations and simulations
 
 **Use the following steps to execute the **_Physics_** experiments.**
 
-1. Download Vlab-Flash-Physics experiments from [GitHub](https://github.com/CreateAmrita/Vlab-Physics-Flash)
+1. Download Vlab-Physics-Flash experiments from [GitHub](https://github.com/CreateAmrita/Vlab-Physics-Flash)
 
 2. Move the experiment folders in the root to **Template files/PHY/EXP** folder to execute the experiments.  See the example of Sonometer experiment here: [GitHub](
 https://github.com/CreateAmrita/Vlab-Physics-Flash/tree/main/Template%20files)
